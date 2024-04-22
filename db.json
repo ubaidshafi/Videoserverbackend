@@ -1,0 +1,463 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Action Movies",
+      "cover_image": "https://i.postimg.cc/vZWK2DZC/MV5-BNTMx-ZTQ1-Zm-Et-OWM3-Ny00-MGQz-LTgy-Mjgt-ZGMz-NDM0-Yj-Vh-Zj-Mz-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1-NDI-V1-FMjpg-UX1000.jpg",
+      "video_url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "Abraham Ozler ",
+      "cover_image": "https://i.postimg.cc/htrFKYL0/MV5-BYTUx-Mm-Q5-YTAt-OGFl-ZS00-Mz-Uy-LThh-Njct-NGIz-ZDQz-Nz-Fk-M2-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-NTgz-Nz-M0-V1.jpg",
+      "video_url": "https://www.youtube.com/embed/txNRa0Qpu4A?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Rdx song",
+      "cover_image": "https://i.postimg.cc/wvWLH9Md/RDX-Movie.jpg",
+      "video_url": "https://www.youtube.com/embed/nYEoxne_20Y?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "Theerame-malik",
+      "cover_image": "https://i.postimg.cc/fb3YZJpj/Malik.webp",
+      "video_url": "https://www.youtube.com/embed/18cpx0zI6SY?autoplay=1"
+    },
+    {
+      "id": "lrkvz52z",
+      "caption": "Beeshma parvam",
+      "cover_image": "https://i.postimg.cc/vHr8QG4W/download-3.jpg",
+      "video_url": "https://www.youtube.com/embed/O_ZIs4p14Fo?autoplay=1"
+    },
+    {
+      "id": "lrkwi7lo",
+      "caption": "Pakaliravukal-Kurupp",
+      "cover_image": "https://i.postimg.cc/vmFN86t3/kurup-movie-review-4.jpg",
+      "video_url": "https://www.youtube.com/embed/eC7ZXijy_8Y?autoplay=1"
+    },
+    {
+      "id": "ls0pdpsu",
+      "caption": "Kaayi_baby jean",
+      "cover_image": "https://i.postimg.cc/tJWKPLB9/ab6761610000e5ebbb9ae6fce2f80583a974b4bf.jpg",
+      "video_url": "https://www.youtube.com/embed/Fq3aewQnU0Q?autoplay=1"
+    },
+    {
+      "id": "ls0pg2dx",
+      "caption": "MADA TRANCE Ft Dabzee",
+      "cover_image": "https://i.postimg.cc/cLNyc43w/ab67616100005174eee6b36a30f005d193731773.jpg",
+      "video_url": "https://www.youtube.com/embed/UMoOT1cqHKs?autoplay=1"
+    },
+    {
+      "id": 5,
+      "caption": "   Sita Ramam ",
+      "cover_image": "https://i.postimg.cc/g2xW1qVc/sita-ramam-et00329656-30-05-2022-06-32-41.avif",
+      "video_url": "https://www.youtube.com/embed/hYFzyK9ExuM?autoplay=1"
+    },
+    {
+      "id": 6,
+      "caption": "Kuthanthram",
+      "cover_image": "https://i.postimg.cc/q78q5ZLG/manjummel-boys-malayalam.jpg",
+      "video_url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Thriller",
+      "videos": [
+        {
+          "data": {
+            "id": 2,
+            "caption": "Abraham Ozler ",
+            "cover_image": "https://i.postimg.cc/htrFKYL0/MV5-BYTUx-Mm-Q5-YTAt-OGFl-ZS00-Mz-Uy-LThh-Njct-NGIz-ZDQz-Nz-Fk-M2-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-NTgz-Nz-M0-V1.jpg",
+            "video_url": "https://www.youtube.com/embed/txNRa0Qpu4A?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "279",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/2",
+            "data": "{}"
+          },
+          "request": {}
+        },
+        {
+          "data": {
+            "id": 1,
+            "caption": "Action Movies",
+            "cover_image": "https://i.postimg.cc/vZWK2DZC/MV5-BNTMx-ZTQ1-Zm-Et-OWM3-Ny00-MGQz-LTgy-Mjgt-ZGMz-NDM0-Yj-Vh-Zj-Mz-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1-NDI-V1-FMjpg-UX1000.jpg",
+            "video_url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "289",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/1",
+            "data": "{}"
+          },
+          "request": {}
+        }
+      ]
+    },
+    {
+      "id": "ls8xwjk4",
+      "name": "Entertainment",
+      "videos": [
+        {
+          "data": {
+            "id": "ls0pdpsu",
+            "caption": "Kaayi_baby jean",
+            "cover_image": "https://i.postimg.cc/tJWKPLB9/ab6761610000e5ebbb9ae6fce2f80583a974b4bf.jpg",
+            "video_url": "https://www.youtube.com/embed/Fq3aewQnU0Q?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "220",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/ls0pdpsu",
+            "data": "{}"
+          },
+          "request": {}
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Comedy ",
+      "videos": []
+    },
+    {
+      "id": 5,
+      "name": "Songs",
+      "videos": [
+        {
+          "data": {
+            "id": 5,
+            "caption": "   Sita Ramam ",
+            "cover_image": "https://i.postimg.cc/g2xW1qVc/sita-ramam-et00329656-30-05-2022-06-32-41.avif",
+            "video_url": "https://www.youtube.com/embed/hYFzyK9ExuMautoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "211",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/5",
+            "data": "{}"
+          },
+          "request": {}
+        },
+        {
+          "data": {
+            "id": "lrkwi7lo",
+            "caption": "Pakaliravukal-Kurupp",
+            "cover_image": "https://i.postimg.cc/vmFN86t3/kurup-movie-review-4.jpg",
+            "video_url": "https://www.youtube.com/embed/eC7ZXijy_8Y?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "205",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/lrkwi7lo",
+            "data": "{}"
+          },
+          "request": {}
+        },
+        {
+          "data": {
+            "id": 4,
+            "caption": "Theerame-malik",
+            "cover_image": "https://i.postimg.cc/fb3YZJpj/Malik.webp",
+            "video_url": "https://www.youtube.com/embed/18cpx0zI6SY?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "176",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/4",
+            "data": "{}"
+          },
+          "request": {}
+        },
+        {
+          "data": {
+            "id": 3,
+            "caption": "Rdx song",
+            "cover_image": "https://i.postimg.cc/wvWLH9Md/RDX-Movie.jpg",
+            "video_url": "https://www.youtube.com/embed/nYEoxne_20Y?autoplay=1"
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "173",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:5000/videos/3",
+            "data": "{}"
+          },
+          "request": {}
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lsim4p8f",
+      "video_title": "Pakaliravukal-Kurupp",
+      "url": "https://www.youtube.com/embed/eC7ZXijy_8Y?autoplay=1",
+      "date": "2024-02-12 12:58:33 PM"
+    },
+    {
+      "id": "lsk1t9u5",
+      "video_title": "Kaayi_baby jean",
+      "url": "https://www.youtube.com/embed/Fq3aewQnU0Q?autoplay=1",
+      "date": "2024-02-13 1:05:20 PM"
+    },
+    {
+      "id": "lsk1tvo0",
+      "video_title": "Beeshma parvam",
+      "url": "https://www.youtube.com/embed/O_ZIs4p14Fo?autoplay=1",
+      "date": "2024-02-13 1:05:48 PM"
+    },
+    {
+      "id": "lt5hm0c9",
+      "video_title": "Mammukoya ",
+      "url": "https://www.youtube.com/embed/e7GvvhA_vPsautoplay=1",
+      "date": "2024-02-28 1:10:44 PM"
+    },
+    {
+      "id": "lt5hmwzi",
+      "video_title": "Mammukoya ",
+      "url": "https://www.youtube.com/embed/e7GvvhA_vPsautoplay=1",
+      "date": "2024-02-28 1:11:27 PM"
+    },
+    {
+      "id": "lvb37ne3",
+      "video_title": "Action Movies",
+      "url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1",
+      "date": "2024-04-22 8:33:42 PM"
+    }
+  ]
+}
